@@ -1,7 +1,5 @@
 # Hello!
 
-I'm Oleh Kovalenko, a beginner front-end developer, excited to learn and dive into new projects. Proficient in HTML, CSS and Sass, Responsive design. Currently studying JavaScript, React and TypeScript in Hillel Front-end Pro course. I have a background in architecture and design, which helps me bring a strong sense of structure and aesthetics to front-end development. 
+I’m a beginner front-end developer, excited to learn and dive into new projects. Proficient in HTML, CSS, and Sass; comfortable with basic JavaScript and React; and actively deepening my skills in these technologies. Open to new challenges and opportunities.
 
-Open to new challenges and offers
-
-// the profile is under construction (;
+See all my projects in one place [portfolio](https://olehok.github.io/portfolio/)
